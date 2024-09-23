@@ -1,0 +1,34 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+body{
+  font-family: "Open Sans", Arial, sans-serif;
+  font-style: normal;
+}
+
+.footer .about p:hover {
+  color: rgba(103, 125, 166, 0.692);
+}
+
+.footer .social:hover {
+  color: rgba(103, 125, 166, 0.692);
+}
+
+footer .footer_sec1 .terms a {
+  text-decoration: none; 
+  color: rgb(255, 94, 0);
+}
+
+.terms a:hover .terms a:focus{
+  color: rgba(68, 68, 247 0.692) !important;
+  text-decoration: underline !important;
+}
